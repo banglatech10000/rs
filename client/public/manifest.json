@@ -1,0 +1,15 @@
+{
+  "name": "Robiul — Developer / Creator",
+  "short_name": "Robiul",
+  "description": "A focused portfolio for work, ideas, and experiments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#151913",
+  "theme_color": "#151913",
+  "icons": [{
+    "src": "/favicon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}

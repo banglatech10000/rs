@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Robiul R logo">
+  <rect width="64" height="64" rx="16" fill="#151913"/>
+  <path d="M18 47V17h15c9 0 14 4 14 11 0 5-3 9-8 10l10 9H39l-9-8h-4v8h-8Zm8-15h6c4 0 7-1 7-4s-3-4-7-4h-6v8Z" fill="#d8f26d"/>
+  <path d="M50 12h4v4h-4zM49 18h1v15h-1z" fill="#d8f26d" transform="rotate(45 50 18)"/>
+</svg>
